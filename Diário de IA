@@ -1,0 +1,35 @@
+DIÁRIO DE IA 
+
+Onde Usou: Ultilizei IA principalmente para entender como construir o código em JavaScript, 
+o VS Code preenchia automaticamente algumas linhas de acordo com cada linha de código que eu preenchi, 
+assim permitindo a continuação do código por meio dos trechos gerados pela IA, no final gerei o código completo para 
+comparar com o feito no Vs Code, foi necessário apenas algumas alterações para que o código rodasse de maneira correta,
+mas a IA me ajudou principalmente a entender a linguagem Node.js para criar o código.
+
+
+O que eu validei: Para verificar o funcionamento do sistema, foi necessário os seguintes testes:
+
+*Executar o programa pelo terminal do Node.js
+
+*Verificar se o menu apresenta as opções corretamente
+
+*Verificar se os tickets cadastrados podem ser consultados
+
+*Testar opções inválidas do menu
+
+*Verificar se o programa continuou funcionando após diferentes operações
+
+
+Um Erro ou Limitação da IA: Durante o desenvolvimento, percebi que utilizar um código gerado por IA exige atenção,
+pois o código pode apresentar problemas, em um teste inicial a mensagem presente foi MODULE_NOT_FOUND relacionada a tentativa do Node.js
+de localizar um módulo ou arquivo necessário para execução, para investigar o problema, pedi para IA procurar possíveis erros no código e corrigi-los.
+
+
+Uma Decisão minha: Uma Decisão importante foi buscar uma versão simplificada do código e pedir explicações sobre cada variável e função, 
+em vez de utilizar uma solução mais complexa sem compreender seu funcionamento, escolhi essa abordagem porque estou aprendendo JavaScript e Node.js 
+e considero importante entender a lógica do programa para realizar alterações e correções no futuro.
+
+
+Conclusão: A IA foi útil como ferramenta de apoio e desenvolvimento e ao aprendizado de programação. Entretanto, 
+suas sugestões precisam ser verificadas, testadas e compreendidas. O desenvolvimento do projeto também depende das minhas decisões, 
+da análise dos erros e da validação do funcionamento do programa
